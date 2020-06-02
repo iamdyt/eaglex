@@ -19,3 +19,7 @@ a:hover{
     text-decoration: unset !important;
 }
 
+.fsize{
+    font-size: 1.2rem;
+}
+
